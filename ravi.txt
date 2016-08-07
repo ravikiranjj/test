@@ -1,2 +1,4 @@
 hi this is my first git repository
 very good
+cool
+
